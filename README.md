@@ -47,7 +47,7 @@ The function `solve_puzzle()` uses **recursion and backtracking**:
 3. If empty → try numbers from 1–9:
    - If number is valid → place it and move to the next cell.
    - If puzzle gets stuck → remove number (**backtrack**) and try another.
-4. If all rows are filled → puzzle is solved 🎉.
+4. If all rows are filled → puzzle is solved .
 
 ---
 
